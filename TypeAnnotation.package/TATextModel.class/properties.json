@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-EditorExample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TATextModel",
+	"pools" : [
+		 ],
+	"super" : "TextModel",
+	"type" : "normal" }

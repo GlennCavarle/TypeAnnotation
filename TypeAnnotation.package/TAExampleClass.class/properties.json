@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-EditorExample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAExampleClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

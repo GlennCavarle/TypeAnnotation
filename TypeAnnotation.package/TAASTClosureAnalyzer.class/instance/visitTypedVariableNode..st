@@ -1,0 +1,3 @@
+as yet unclassified
+visitTypedVariableNode: aTypedVariableNode
+	self visitVariableNode: aTypedVariableNode

@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TACompilationContext",
+	"pools" : [
+		 ],
+	"super" : "CompilationContext",
+	"type" : "normal" }

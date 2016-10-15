@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TASHTextStylerST80",
+	"pools" : [
+		 ],
+	"super" : "RubSHTextStylerST80",
+	"type" : "normal" }

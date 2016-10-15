@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Node",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TABlockClosureTypeNode",
+	"pools" : [
+		 ],
+	"super" : "TACompositeTypeNode",
+	"type" : "normal" }

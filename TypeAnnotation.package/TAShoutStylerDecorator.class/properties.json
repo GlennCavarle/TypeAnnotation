@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAShoutStylerDecorator",
+	"pools" : [
+		 ],
+	"super" : "RubShoutStylerDecorator",
+	"type" : "normal" }

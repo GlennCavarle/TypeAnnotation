@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TASHParserST80",
+	"pools" : [
+		 ],
+	"super" : "SHParserST80",
+	"type" : "normal" }

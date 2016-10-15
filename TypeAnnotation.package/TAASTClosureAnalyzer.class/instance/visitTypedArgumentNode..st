@@ -1,0 +1,3 @@
+as yet unclassified
+visitTypedArgumentNode: aTypedVariableNode
+	self visitArgumentNode: aTypedVariableNode

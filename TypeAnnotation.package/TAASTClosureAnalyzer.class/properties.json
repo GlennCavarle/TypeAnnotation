@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Semantic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAASTClosureAnalyzer",
+	"pools" : [
+		 ],
+	"super" : "OCASTClosureAnalyzer",
+	"type" : "normal" }

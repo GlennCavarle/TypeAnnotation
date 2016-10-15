@@ -1,0 +1,3 @@
+accessing
+acceptVisitor: aProgramNodeVisitor
+	^ aProgramNodeVisitor visitParametrizedTypeNode: self

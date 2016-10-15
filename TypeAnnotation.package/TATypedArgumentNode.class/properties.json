@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Node",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TATypedArgumentNode",
+	"pools" : [
+		 ],
+	"super" : "RBArgumentNode",
+	"type" : "normal" }

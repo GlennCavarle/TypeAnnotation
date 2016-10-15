@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Node",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TATypedVariableNode",
+	"pools" : [
+		 ],
+	"super" : "RBVariableNode",
+	"type" : "normal" }

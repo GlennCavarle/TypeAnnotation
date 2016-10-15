@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TASmalltalkCodeMode",
+	"pools" : [
+		 ],
+	"super" : "RubSmalltalkCodeMode",
+	"type" : "normal" }

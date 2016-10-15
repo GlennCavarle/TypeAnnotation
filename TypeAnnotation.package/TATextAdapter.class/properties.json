@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-EditorExample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TATextAdapter",
+	"pools" : [
+		 ],
+	"super" : "MorphicTextAdapter",
+	"type" : "normal" }

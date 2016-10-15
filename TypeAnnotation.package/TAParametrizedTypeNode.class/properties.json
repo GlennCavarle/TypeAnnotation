@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Node",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAParametrizedTypeNode",
+	"pools" : [
+		 ],
+	"super" : "TACompositeTypeNode",
+	"type" : "normal" }

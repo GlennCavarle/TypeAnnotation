@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-EditorExample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAMethodBrowser",
+	"pools" : [
+		 ],
+	"super" : "MethodBrowser",
+	"type" : "normal" }

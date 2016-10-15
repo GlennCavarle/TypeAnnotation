@@ -1,0 +1,3 @@
+as yet unclassified
+visitCollectionTypeNode: aCollectionTypeNode
+	self visitParametrizedTypeNode: aCollectionTypeNode

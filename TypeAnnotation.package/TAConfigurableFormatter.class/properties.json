@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAConfigurableFormatter",
+	"pools" : [
+		 ],
+	"super" : "BIConfigurableFormatter",
+	"type" : "normal" }

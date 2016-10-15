@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 8/29/2015 09:52",
+	"instvars" : [
+		 ],
+	"name" : "TAParser",
+	"pools" : [
+		 ],
+	"super" : "RBParser",
+	"type" : "normal" }

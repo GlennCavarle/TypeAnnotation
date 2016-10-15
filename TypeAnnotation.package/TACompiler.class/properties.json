@@ -1,0 +1,14 @@
+{
+	"category" : "TypeAnnotation-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TACompiler",
+	"pools" : [
+		 ],
+	"super" : "OpalCompiler",
+	"type" : "normal" }
